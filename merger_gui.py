@@ -1,4 +1,4 @@
-#!/Users/simonwittum/opt/anaconda3/bin/python
+#!/usr/bin/env python
 import os
 import tkinter as tk
 from tkinter import filedialog
