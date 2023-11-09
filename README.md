@@ -1,0 +1,2 @@
+# PDF Merger
+This Repository contains a .py script that provides a GUI to merge single .pdf files to one big .pdf file. The GUI offers additional functionalities such as renaming the merged .pdf file an setting the target path for the output.
